@@ -1,3 +1,8 @@
 def capi(words):
-    '''докстринс'''
+    '''docstring'''
     return words.upper()
+
+
+def capicap(words):
+    '''docstring'''
+    return words.title()
